@@ -22,7 +22,7 @@ ocbm init fav-methods[.cbl]
 
 This command will create a new file called `fav-methods.cbl` (you can give it any name) in your current directory. The extension is explicit or implicit - it doesn't matter. The file will contain a list of code bits available in your library. You can delete those you don't need. The file will be used by OCBM to know which bits to include in your project on install.
 
-### Install code bits from your library into your project
+### Install code-bits from your library into your project
 
 ```bash
 ocbm i[nstall]
